@@ -1,10 +1,12 @@
 <div align="right">
 
 ![Views](https://komarev.com/ghpvc/?username=Yomal-Dulanjana&label=VIEWS)
+ 
+ 
+![](https://media-exp1.licdn.com/dms/image/C5616AQGfhtXq7PwD6g/profile-displaybackgroundimage-shrink_200_800/0/1652265307084?e=1657756800&v=beta&t=RIzsACkZ3EEA2_mBi0hx08vNvSeE9hlkWAJ_UUe1j5A)
 
 
 </div>
- 
 
 
 </div>
